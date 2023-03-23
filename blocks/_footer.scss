@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+  .mini-container {
+    border: 2px solid white;
+    font-size: small;
+  }
+}
